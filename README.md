@@ -1,2 +1,2 @@
 # blog
-This is an Ruby app
+This is a Ruby app
